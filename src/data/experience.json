@@ -1,0 +1,62 @@
+[
+    {
+        "date": "STEP 1 : FrontEnd Web Development",
+        "title": "HTML, CSS, Javascript",
+        "subtitle": "Lorem ipsum",
+        "website": "",
+        "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "techStack": [
+            "HTML",
+            "CSS",
+            "JavaScript"
+        ]
+    },
+    {
+        "date": "STEP 1 : FrontEnd Web Development",
+        "title": "HTML, CSS, Javascript",
+        "subtitle": "Lorem ipsum",
+        "website": "",
+        "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "techStack": [
+            "HTML",
+            "CSS",
+            "JavaScript"
+        ]
+    },
+    {
+        "date": "STEP 1 : FrontEnd Web Development",
+        "title": "HTML, CSS, Javascript",
+        "subtitle": "Lorem ipsum",
+        "website": "",
+        "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "techStack": [
+            "HTML",
+            "CSS",
+            "JavaScript"
+        ]
+    },
+    {
+        "date": "STEP 1 : FrontEnd Web Development",
+        "title": "HTML, CSS, Javascript",
+        "subtitle": "Lorem ipsum",
+        "website": "",
+        "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "techStack": [
+            "HTML",
+            "CSS",
+            "JavaScript"
+        ]
+    },
+    {
+        "date": "STEP 1 : FrontEnd Web Development",
+        "title": "HTML, CSS, Javascript",
+        "subtitle": "Lorem ipsum",
+        "website": "",
+        "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "techStack": [
+            "HTML",
+            "CSS",
+            "JavaScript"
+        ]
+    }
+  ]
