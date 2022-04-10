@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Web Development",
+        "description": "Web development is the process of building websites and applications for the internet, or for a private network known as an intranet.",
+        "page": "/web",
+        "image": "web.jpg"
+    },
+    {
+        "name": "Machine Learning",
+        "description": "Machine learning is the study of computer algorithms that can improve automatically through experience and by the use of data.",
+        "page": "/web",
+        "image": "ml.jpg"
+    },
+    {
+        "name": "App Development",
+        "description": "Mobile application development is the process of creating software applications that run on a mobile device.",
+        "page": "/web",
+        "image": "app.jpg"
+    }
+  ]
