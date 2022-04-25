@@ -1,4 +1,3 @@
-import Experiences from "../components/Experiences/index";
 import Footer from "../components/Shared/Footer";
 import NavBar from "../components/Shared/Navbar";
 import Domain from "../components/Home/Domain";

@@ -2,7 +2,7 @@ import Web from "../../components/Web/index";
 import Footer from "../../components/Shared/Footer";
 import NavBar from "../../components/Shared/Navbar";
 
-export default function WebPage(props) {
+export default function AppPage(props) {
 
   return (
     <div className="App bg-black">

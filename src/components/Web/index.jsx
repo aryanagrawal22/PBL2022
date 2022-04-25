@@ -2,7 +2,7 @@ import Experience from "./Experience";
 import {Fade} from "react-awesome-reveal";
 import React from "react";
 
-export default function Experiences(props) {
+export default function Web(props) {
   return (
     <div>
       <Fade up>
