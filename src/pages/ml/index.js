@@ -1,4 +1,4 @@
-import Web from "../../components/Web/index";
+import Ml from "../../components/Ml/index";
 import Footer from "../../components/Shared/Footer";
 import NavBar from "../../components/Shared/Navbar";
 
@@ -8,7 +8,7 @@ export default function MlPage(props) {
     <div className="App bg-black">
       <div className="container mx-auto max-w-screen-xl">
         <NavBar/>
-        <Web data={props.data}/>
+        <Ml data={props.data}/>
         <Footer/>
       </div>
     </div>

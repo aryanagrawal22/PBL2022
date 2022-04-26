@@ -1,4 +1,4 @@
-import Web from "../../components/Web/index";
+import App from "../../components/App/index";
 import Footer from "../../components/Shared/Footer";
 import NavBar from "../../components/Shared/Navbar";
 
@@ -8,7 +8,7 @@ export default function AppPage(props) {
     <div className="App bg-black">
       <div className="container mx-auto max-w-screen-xl">
         <NavBar/>
-        <Web data={props.data}/>
+        <App data={props.data}/>
         <Footer/>
       </div>
     </div>
