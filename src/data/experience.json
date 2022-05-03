@@ -1,62 +1,108 @@
 [
     {
         "date": "STEP 1 : FrontEnd Web Development",
-        "title": "HTML, CSS, Javascript",
-        "subtitle": "Lorem ipsum",
-        "website": "",
-        "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "title": "You Need To Know Frontend First",
+        "subtitle": "FRONTEND",
+        "website": "https://www.freecodecamp.org/news/learn-frontend-web-development/",
+        "details": "The part of a website that the user interacts directly is termed as front end. It is also referred to as the ‘client side’ of the application.",
         "techStack": [
             "HTML",
             "CSS",
-            "JavaScript"
+            "JAVASCRIPT",
+            "BOOTSTRAP"
+
         ]
     },
     {
-        "date": "STEP 1 : FrontEnd Web Development",
-        "title": "HTML, CSS, Javascript",
-        "subtitle": "Lorem ipsum",
-        "website": "",
-        "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "date": "STEP 2 : FrontEnd Web Development",
+        "title": "First Learn HTML",
+        "subtitle": "HTML",
+        "website": "https://www.youtube.com/watch?v=HcOc7P5BMi4",
+        "details": "HTML (Hyper Text Markup Language) is a web-based  language that tells your browser how to showcase text and images on a webpage. You use tags to indicate the various elements, determine the placement of paragraphs, headings, add images and videos. ",
         "techStack": [
-            "HTML",
-            "CSS",
-            "JavaScript"
+            "BASICS",
+            "SEMANTIC HTML"
         ]
     },
     {
-        "date": "STEP 1 : FrontEnd Web Development",
-        "title": "HTML, CSS, Javascript",
-        "subtitle": "Lorem ipsum",
-        "website": "",
-        "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-        "techStack": [
-            "HTML",
-            "CSS",
-            "JavaScript"
-        ]
+        "date": "STEP 3 : FrontEnd Web Development",
+        "title": "Learn The Basics",
+        "subtitle": "BASICS OF HTML",
+        "website": "https://www.youtube.com/watch?v=pQN-pnXPaVg",
+        "details": "HTML stands for HyperText Markup Language. It is used on the frontend and gives the structure to the webpage which you can style using CSS and make interactive using JavaScript.",
+        "techStack": ["FORMS AND VALIDATIONS",
+            "BEST PRACTICES"]
     },
     {
-        "date": "STEP 1 : FrontEnd Web Development",
-        "title": "HTML, CSS, Javascript",
-        "subtitle": "Lorem ipsum",
-        "website": "",
-        "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-        "techStack": [
-            "HTML",
-            "CSS",
-            "JavaScript"
-        ]
+        "date": "STEP 4 : FrontEnd Web Development",
+        "title": "UNDERSTAND WHAT IS SEMANTIC HTML",
+        "subtitle": "SEMANTIC HTML",
+        "website": "https://www.w3schools.com/html/html5_semantic_elements.asp",
+        "details": "Semantic element clearly describes its meaning to both the browser and the developer.",
+        "techStack": []
     },
     {
-        "date": "STEP 1 : FrontEnd Web Development",
-        "title": "HTML, CSS, Javascript",
-        "subtitle": "Lorem ipsum",
-        "website": "",
-        "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-        "techStack": [
-            "HTML",
-            "CSS",
-            "JavaScript"
-        ]
+        "date": "STEP 5 : FrontEnd Web Development",
+        "title": "Learn Forms And Its Validation",
+        "subtitle": "FORMS AND VALIDATIONS",
+        "website": "https://developer.mozilla.org/en-US/docs/Learn/Forms/Form_validation",
+        "details": "Before submitting data to the server, it is important to ensure all required form controls are filled out, in the correct format. This is called client-side form validation, and helps ensure data submitted matches the requirements set forth in the various form controls.",
+        "techStack": []
+    },
+    {
+        "date": "STEP 6 : FrontEnd Web Development",
+        "title": "Learn How To Mentain HTML Documents",
+        "subtitle": "BEST PRACTICES",
+        "website": "https://github.com/hail2u/html-best-practices",
+        "details": "Learn to follow the best practices for writing maintainable and scalable ",
+        "techStack": []
+    },
+    {
+        "date": "STEP 7 : FrontEnd Web Development",
+        "title": "Learn CSS",
+        "subtitle": "CSS",
+        "website": "https://www.youtube.com/watch?v=yfoY53QXEnI",
+        "details": "CSS or Cascading Style Sheets adds styling such as fonts, colours or layouts to your website making the website more aesthetically pleasing. Therefore, HTML allows you to build the structure of your website and CSS makes that structure come to life",
+        "techStack": ["BASICS", "MAKING LAYOUTS", "RESPNSIVE WEB DESIGN"]
+    },
+    {
+        "date": "STEP 8 : FrontEnd Web Development",
+        "title": "Learn Basics Of CSS",
+        "subtitle": "BASICS",
+        "website": "https://www.youtube.com/watch?v=sqJ6xZ9mUwElist=PL4PaOIHsZcwJ5WLSMeOCrlmrLdphfhcpo",
+        "details": "CSS or Cascading Style Sheets is the language used to style the frontend of any website. CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript",
+        "techStack": []
+    },
+    {
+        "date": "STEP 9 : FrontEnd Web Development",
+        "title": "LEARN TO MAKE DIFFERENT LAYOUTS",
+        "subtitle": "MAKING LAYOUTS",
+        "website": "https://www.freecodecamp.org/newsthe-css-display-property-display-none-display-table-inline-block-and-more/",
+        "details": "Float, grid, flexbox, positioning, display and box model are some of the key topics that are used for making layouts",
+        "techStack": []
+    },
+    {
+        "date": "STEP 10 : FrontEnd Web Development",
+        "title": "LEARN HOW TO MAKE YOUR WEB DESIGN RESPONSIVE",
+        "subtitle": "RESPONSIVE WEB DESIGN",
+        "website": "https://www.youtube.com/watch?v=srvUrASNj0s",
+        "details": "Responsive Web Designing is the technique to make your webpages look good on all screen sizes. There are certain techniques used to achieve that e.g. CSS media queries, percentage widths, min or max widths heights etc.",
+        "techStack": []
+    },
+    {
+        "date": "STEP 11 : FrontEnd Web Development",
+        "title": "LEARN BOOTSTRAP",
+        "subtitle": "BOOTSTRAP",
+        "website": "https://www.youtube.com/watch?v=314m7YBRFvQ",
+        "details": "Bootstrap is a potent front-end framework used to create modern websites and web apps. It's open-source and free to use, yet features numerous HTML and CSS templates for UI interface elements such as buttons and forms. Bootstrap also supports JavaScript extensions.",
+        "techStack": []
+    },
+    {
+        "date": "STEP 12 : Backend Web Development",
+        "title": "WHAT IS PROGRAMMING?",
+        "subtitle": "Understanding Backend",
+        "website": "https://www.youtube.com/watch?v=zOjov-2OZ0E",
+        "details": "Programming is the process of giving machines a set of instructions that describe how a program should be carried out. Programmers will spend their whole careers learning a variety of programming languages and tools so they can effectively build computer programs.",
+        "techStack": []
     }
   ]
