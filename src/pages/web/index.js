@@ -17,7 +17,7 @@ export default function WebPage(props) {
 
 export async function getServerSideProps() {
   // Fetch data from API
-  const res = await fetch(`${process.env.API}/experience`)
+  const res = await fetch(`${process.env.API}/web`)
   const data = await res.json()
 
   // Pass data to the page via props

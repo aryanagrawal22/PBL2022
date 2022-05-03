@@ -1,0 +1,30 @@
+[
+    {
+        "date": "STEP 1 : FrontEnd Web Development",
+        "title": "You Need To Know Frontend First",
+        "subtitle": "FRONTEND",
+        "website": "https://www.freecodecamp.org/news/learn-frontend-web-development/",
+        "details": "The part of a website that the user interacts directly is termed as front end. It is also referred to as the ‘client side’ of the application.",
+        "techStack": [
+            "HTML",
+            "CSS",
+            "JAVASCRIPT",
+            "BOOTSTRAP"
+
+        ]
+    },
+    {
+        "date": "STEP 1 : FrontEnd Web Development",
+        "title": "You Need To Know Frontend First",
+        "subtitle": "FRONTEND",
+        "website": "https://www.freecodecamp.org/news/learn-frontend-web-development/",
+        "details": "The part of a website that the user interacts directly is termed as front end. It is also referred to as the ‘client side’ of the application.",
+        "techStack": [
+            "HTML",
+            "CSS",
+            "JAVASCRIPT",
+            "BOOTSTRAP"
+
+        ]
+    }
+  ]

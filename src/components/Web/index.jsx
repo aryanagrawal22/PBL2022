@@ -13,7 +13,7 @@ export default function Web(props) {
         </div>
       </Fade>
 
-      <Card  data={props.data.experience}/>
+      <Card  data={props.data.web}/>
     </div>
   );
 }

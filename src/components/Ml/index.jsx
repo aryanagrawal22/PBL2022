@@ -13,7 +13,7 @@ export default function Ml(props) {
         </div>
       </Fade>
 
-      <Card data={props.data.experience}/>
+      <Card data={props.data.ml}/>
     </div>
   );
 }

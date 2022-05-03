@@ -1,0 +1,113 @@
+[
+    {
+        "date": "STEP 1",
+        "title": "Learn Statistics",
+        "subtitle": "Statistics",
+        "website": "https://www.udemy.com/course/statsml_x/",
+        "details": "In statistics you will have to learn important concepts like statistical significance, probability distributions, hypothesis testing, regression and most important is Bayesian thinking.",
+        "techStack": ["Bayesian Statistics", "Logical Thinking"]
+    },
+    {
+        "date": "STEP 2",
+        "title": "Basic Linear Algebra",
+        "subtitle": "Linear Algebra, Calculus",
+        "website": "https://www.youtube.com/watch?v=Qc19jQWHdL0&list=PLRDl2inPrWQW1QSWhBU0ki-jq_uElkh2a&ab_channel=JonKrohn",
+        "details": "Linear algebra is needed in various aspects of machine learning like in linear regression, images and photographs. The concepts required to be learned are Notation, operations, Matrix factorization etc.",
+        "techStack": [
+            "Notation",
+            "Matrix factorization"]
+    },
+    {
+        "date": "STEP 3",
+        "title": "Get to know a Programming Language",
+        "subtitle": "Python, C++",
+        "website": "https://www.youtube.com/watch?v=DAFN7NteCBc",
+        "details": "Machine Learning engineers use various languages like c++ or R but the most used language is Python. In Python there are various libraries which make it the most popular language.",
+        "techStack": [
+            "Python",
+            "R",
+            "C++",
+            "Java"
+
+        ]
+    },
+    {
+        "date": "STEP 4",
+        "title": "Let's learn Python",
+        "subtitle": "Python libraries",
+        "website": "https://www.udemy.com/course/python-for-machine-learning-data-science-masterclass/",
+        "details": "In Python you should learn various libraries like numpy, pandas, tensorflow, opencv, seaborn, matplotlib, etc. All these libraries are very helpful in most of the processes or steps in developing a ML model.",
+        "techStack": [
+            "Pandas",
+            "NumPy"
+        ]
+    },
+    {
+        "date": "STEP 5",
+        "title": "Learning ML Frameworks",
+        "subtitle": "ML frameworks",
+        "website": "https://www.bmc.com/blogs/machine-learning-ai-frameworks/#:~:text=Arguably%2C%20TensorFlow%2C%20PyTorch%2C%20and%20scikit-learn%20are%20the%20most,as%20opposed%20to%20neural%20network%20training%20%28deep%20learning%29.",
+        "details": "In Machine learning frameworks there are various libraries like OpenCV, PyTorch, Tensorflow etc. It is not necessary to learn all the frameworks in the beginning itself. You can learn them as you need while working. And for learning them you will have to do individual courses for each framework. ",
+        "techStack": [
+            "Tensorflow",
+            "PyTorch"
+        ]
+    },
+    {
+        "date": "STEP 6",
+        "title": "Get known to Database Management",
+        "subtitle": "Database Management",
+        "website": "https://www.geeksforgeeks.org/how-to-choose-the-right-database-for-your-application/",
+        "details": "In Database Management you will have to learn various things like SQL(DAL, ORM), NoSQL(MongoDB), RDBMS(MySQL, MariaDB) etc. For database it is not necessary to learn all the database management systems you can learn only the one which you feel easy to learn and suitable.",
+        "techStack": [
+            "SQLite",
+            "MySQL"
+
+        ]
+    },
+    {
+        "date": "STEP 7",
+        "title": "MLOps",
+        "subtitle": "Model training, model validation",
+        "website": "https://www.udemy.com/course/testing-and-monitoring-machine-learning-model-deployments/",
+        "details": "MlOps is used for automating various processes while developing a model. There are many vital concepts like Model training, model validation, model deployment, monitoring, data preprocessing, model serving, TFX etc",
+        "techStack": [
+            "TensorRT",
+            "ONNX"
+        ]
+    },
+    {
+        "date": "STEP 8",
+        "title": "ML Algorithms, multithreading",
+        "subtitle": "Supervised and unsupervised learning, linear regression",
+        "website": "https://developers.google.com/machine-learning/crash-course",
+        "details": "You will have to learn core Machine learning algorithms like Supervised and unsupervised learning, linear regression, reinforcement learning, logistic regression etc. Reading books like ‘Hands-On Machine Learning with Scikit-Learn, Keras and TensorFlow' would help you a lot over an online course. Multithreading has various components like synchronization, parallel programming etc.",
+        "techStack": [
+            "Clustering",
+            "Dimension reduction"
+
+        ]
+    },
+    {
+        "date": "STEP 9",
+        "title": "Competition",
+        "subtitle": "Competition",
+        "website": "https://mlcontests.com/",
+        "details": "There are plenty of sites that provide ML competitions, Kaggle being the main one. These are great places to build your skills and reputation. You can also test yourself through the competition and work on your weak sections.",
+        "techStack": [
+            "Kaggle"
+
+        ]
+    },
+    {
+        "date": "STEP 10",
+        "title": "Try yo Solve Real problems",
+        "subtitle": "Real life",
+        "website": "https://www.kaggle.com/datasets",
+        "details": "Until now, most problems you’ve solved have used predefined datasets. While this is a great way to train, working on real data helps you get a feel for real-world projects and the problems you might encounter. You can get real life dataset from sites like kaggle.",
+        "techStack": [
+            "Kaggle",
+            "Tableau"
+        ]
+    }
+  ]
