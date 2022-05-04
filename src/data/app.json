@@ -1,29 +1,116 @@
 [
     {
-        "date": "STEP 1 : FrontEnd Web Development",
-        "title": "You Need To Know Frontend First",
-        "subtitle": "FRONTEND",
-        "website": "https://www.freecodecamp.org/news/learn-frontend-web-development/",
-        "details": "The part of a website that the user interacts directly is termed as front end. It is also referred to as the ‘client side’ of the application.",
+        "date": "STEP 1 : FrontEnd Development",
+        "title": "You Need to Know OOP First",
+        "subtitle": "Object Oriented Programming",
+        "website": "https://youtu.be/bSrm9RXwBaI",
+        "details": "It gives us a nice way to model our data after real-world objects. It takes data, which dumb computers like, and adds some abstraction so smart humans can impose our will onto the computers.",
         "techStack": [
-            "HTML",
-            "CSS",
-            "JAVASCRIPT",
-            "BOOTSTRAP"
+            "OOP",
+            "Fundamentals",
+            "Reusability"
 
         ]
     },
     {
-        "date": "STEP 1 : FrontEnd Web Development",
-        "title": "You Need To Know Frontend First",
-        "subtitle": "FRONTEND",
-        "website": "https://www.freecodecamp.org/news/learn-frontend-web-development/",
-        "details": "The part of a website that the user interacts directly is termed as front end. It is also referred to as the ‘client side’ of the application.",
+        "date": "STEP 2 : FrontEnd Development",
+        "title": "Learn Dart",
+        "subtitle": "Dart",
+        "website": "https://hidevs.net/course/the-complete-flutter-development-bootcamp-with-dart",
+        "details": "Dart is an object-oriented, web-based programming language. Every toolkit uses a programming language (like the Android toolkit use Java or Kotlin) and flutter uses Dart programming language. Dart is a very strong, flexible and easily learnable programming language from Google.",
         "techStack": [
-            "HTML",
-            "CSS",
-            "JAVASCRIPT",
-            "BOOTSTRAP"
+            "Dart"
+
+        ]
+    },
+    {
+        "date": "STEP 3 : FrontEnd Development",
+        "title": "Start with Flutter",
+        "subtitle": "Flutter Install",
+        "website": "https://docs.flutter.dev/get-started/editor?tab=androidstudio",
+        "details": "Before learning flutter you shall have flutter SDK in your machine. A software development kit is a collection of software development tools in one installable package. Flutter currently supports 2 best IDE 1)Android Studio/IntelliJ 2)VS Code",
+        "techStack": [
+            "VS Code",
+            "Android Studio",
+            "Flutter"
+
+        ]
+    },
+    {
+        "date": "STEP 4 : FrontEnd Development",
+        "title": "Let's Start learning Flutter",
+        "subtitle": "Flutter",
+        "website": "https://www.udemy.com/course/flutter-bootcamp-with-dart/    ",
+        "details": "Flutter supports the fast development process and saves a lot of time for the developers. Firstly, with the help of various enriching widgets, you can easily create a creative UI/UX design for your applications.",
+        "techStack": [
+            "Flutter"
+
+        ]
+    },
+    {
+        "date": "STEP 5 : FrontEnd Development",
+        "title": "Flutter - Introduction to widgets ",
+        "subtitle": "Widgets",
+        "website": "https://www.tutorialspoint.com/flutter/flutter_introduction_to_widgets.htm",
+        "details": "Flutter widgets are built using a modern framework that takes inspiration from React. The central idea is that you build your UI out of widgets.",
+        "techStack": [
+            "Widgets",
+            "Visualization"
+
+        ]
+    },
+    {
+        "date": "STEP 6 : FrontEnd Development",
+        "title": "Flutter-Introduction to Layouts",
+        "subtitle": "Layouts",
+        "website": "https://www.tutorialspoint.com/flutter/flutter_introduction_to_layouts.htm",
+        "details": "Flutter incorporates a user interface layout functionality into the widgets itself. Flutter provides quite a lot of specially designed widgets like Container, Centre, Align, etc., only for the purpose of laying out the user interface.",
+        "techStack": [
+            "Align","Containers", "Layouts"
+
+        ]
+    },
+    {
+        "date": "STEP 7 : FrontEnd Development",
+        "title": "Get to know Animations in flutter ",
+        "subtitle": "Basic Animations in flutter",
+        "website": "https://betterprogramming.pub/exploring-animations-in-flutter-for-beginners-147151a794",
+        "details": "In Flutter, an Animation object knows nothing about what is onscreen. An Animation is an abstract class that understands its current value and its state (completed or dismissed).",
+        "techStack": [
+            "Animations",
+            "Fundamentals"
+        ]
+    },
+    {
+        "date": "STEP 8 : Backend Development",
+        "title": "Learn making API calls",
+        "subtitle": "API CALLS",
+        "website": "https://jsonplaceholder.typicode.com/",
+        "details": "APIs will always be needed whenever you create any apps. API calls can be done using different packages available like http, dio, retrofit, chopper, etc. The basic one is HTTP and other packages are a wrapper over HTTP with few more functionalities. ",
+        "techStack": [
+            "API","HTTP Protocol"
+
+        ]
+    },
+    {
+        "date": "STEP 9 : Backend Development",
+        "title": "Learn Database integration in flutter",
+        "subtitle": "Database Management",
+        "website": "https://www.javatpoint.com/flutter-database-concepts",
+        "details": "If you are writing an app that needs to persist and query large amounts of data on the local device, consider using a database instead of a local file or key-value store.",
+        "techStack": [
+            "Database Management"
+
+        ]
+    },
+    {
+        "date": "STEP 10 : Backend Development",
+        "title": "Learn Project structure or architecture design",
+        "subtitle": "System Design",
+        "website": "https://medium.com/google-developer-experts/roadmap-to-learn-flutter-like-a-pro-594f5c38e74a",
+        "details": "Maintaining a Project Structure is really important. It helps newbies to review the code quickly. It also helps to trace the bug easily or add or remove functionality as and when needed without breaking the current functionality.",
+        "techStack": [
+            "System Design", "Server Architecture"
 
         ]
     }
