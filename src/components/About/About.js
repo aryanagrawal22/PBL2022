@@ -13,7 +13,22 @@ export default function About() {
       <Fade up cascade>
         <div>
           <p className="mx-auto w-full lg:w-3/4 mt-4 font-secondary font-normal text-gray-400 text-xl text-center">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+            Many freshers in their first year of engineering face many questions
+            such as which domain to choose? from where to start? Which platforms
+            do we need to practice on? And many more. So, to solve and help
+            these students in their early semesters we have thought of creating
+            a website which would guide them through all the domains like Web,
+            App, ML, AI, DS, Cloud etc. and help them in choosing those. Once
+            the student selects any domain, he/she would refer to this site to
+            follow the roadmap.
+          </p>
+        </div>
+      </Fade>
+      <Fade up cascade>
+        <div>
+          <p className="mx-auto w-full lg:w-3/4 mt-4 font-secondary font-normal text-gray-400 text-xl text-center">
+            We are a group of 5, who have created this project for any new fresher struggling to select a domain, facing difficulties finding the resources or looking for a brief overview of the domain. The website would list down all the resources
+            and tutorials needed for the same.
           </p>
         </div>
       </Fade>

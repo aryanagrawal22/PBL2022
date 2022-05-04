@@ -67,11 +67,11 @@ export default function NavBar() {
             );
           })}
 
-          <Link href="/contact" onClick={handleClick}>
+          {/* <Link href="/contact" onClick={handleClick}>
             <button className="w-auto bg-[#00e5ff] text-black font-medium text-center transition duration-500 ease-in-out py-3 px-4 rounded font-primary text-lg mt-6 mb-4 mx-2 xl:mt-0 xl:mb-0 transition duration-500 ease-in-out transform hover:scale-105">
               Contact Us
             </button>
-          </Link>
+          </Link> */}
         </div>
       </div>
     </div>
