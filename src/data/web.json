@@ -98,11 +98,59 @@
         "techStack": []
     },
     {
-        "date": "STEP 12 : Backend Web Development",
+        "date": "STEP 12 : FrontEnd Web Development",
+        "title": "Learn javascript",
+        "subtitle": "Javascript",
+        "website": "https://www.youtube.com/watch?v=PkZNo7MFNFg&t=32s",
+        "details": "JavaScript is a scripting or programming language that allows you to implement complex features on web pages — every time a web page does more than just sit there and display static information for you to look at — displaying timely content updates, interactive maps, animated 2D/3D graphics, scrolling video jukeboxes, etc.",
+        "techStack": ["React", "Angular"]
+    },
+    {
+        "date": "STEP 13 : FrontEnd Web Development",
+        "title": "Start learning frameworks in javascript",
+        "subtitle": "React",
+        "website": "https://www.youtube.com/watch?v=j942wKiXFu8&list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d",
+        "details": "React makes it painless to create interactive UIs. Design simple views for each state in your application, and React will efficiently update and render just the right components when your data changes. Declarative views make your code more predictable and easier to debug.",
+        "techStack": ["React", "Components", "Hooks"]
+    },
+    {
+        "date": "STEP 14 : Backend Web Development",
         "title": "WHAT IS PROGRAMMING?",
         "subtitle": "Understanding Backend",
         "website": "https://www.youtube.com/watch?v=zOjov-2OZ0E",
         "details": "Programming is the process of giving machines a set of instructions that describe how a program should be carried out. Programmers will spend their whole careers learning a variety of programming languages and tools so they can effectively build computer programs.",
         "techStack": []
+    },
+    {
+        "date": "STEP 15 : Backend Web Development",
+        "title": "Learn Node.js",
+        "subtitle": "Node.js",
+        "website": "https://www.youtube.com/watch?v=w-7RQ46RgxU&list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp",
+        "details": "Node.js is super accessible and easy to use. Node.js allows you to work both the backend and fullstack of an application. Node.js has valuable real-life application. Node.js is in high demand.",
+        "techStack": ["Threading", "Node", "SSL"]
+    },
+    {
+        "date": "STEP 16 : Backend Web Development",
+        "title": "Let’s learn framework for backend",
+        "subtitle": "Express.js",
+        "website": "https://www.youtube.com/watch?v=7H_QH9nipNs",
+        "details": "Express.js is a small framework that works on top of Node.js web server functionality to simplify its APIs and add helpful new features. It makes it easier to organize your application’s functionality with middleware and routing. It adds helpful utilities to Node.js HTTP objects and facilitates the rendering of dynamic HTTP objects.",
+        "techStack": []
+    },
+    {
+        "date": "STEP 17 : Backend Web Development",
+        "title": "Learn Databases",
+        "subtitle": "Databases",
+        "website": "https://www.youtube.com/watch?v=pWbMrx5rVBE",
+        "details": "Not only retrieval and updating of data, but a database also helps in authentication which is observed in websites having a login and signup functionality. Such websites display customised web pages based on the logged in user. Databases can be a real boon to a web developer if used correctly.",
+        "techStack": ["SQL", "NoSQL"]
+    },
+    {
+        "date": "STEP 18 : Backend Web Development",
+        "title": "Let’s create your own website ",
+        "subtitle": "Host Your Web App/ Website",
+        "website": "https://www.youtube.com/watch?v=wIH2qBLwonE",
+        "details": "It provides a secure place to store online content. The code, images, videos, and text that comprise a website all have to be stored somewhere. Without a stable digital repository, none of us could consistently access content on the web.",
+        "techStack": ["Hosting", "Environments"]
     }
   ]
